@@ -1,2 +1,3 @@
 # Smart-Irrigation-System
-Arduino Project
+
+The project presents the use of correct soil moisture sensors which helps to ease out the pain to monitor and keep records about the changes in soil moisture. Using the Arduino micro controller with light-depended resistor sensor, moisture sensor. The soil for a certain duration, provides information related to the moisture status of the soil. The Arduino will collect and process the data received from the sensors. When a threshold moisture level of the soil is reached, the water will supply accordingly. This is essential because water must be provided to the plant at a particular time for a good yield. This project is highly use for farmers, nursery professionals by eradicating traditional or manual method of irrigation system.
